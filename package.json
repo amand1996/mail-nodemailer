@@ -1,0 +1,19 @@
+{
+  "name": "mail_using_nodemailer",
+  "version": "1.0.0",
+  "description": "A script to send mails using nodemailer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amand1996/mail-nodemailer.git"
+  },
+  "author": "Aman Dwivedi <aman_d1996@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amand1996/mail-nodemailer/issues"
+  },
+  "homepage": "https://github.com/amand1996/mail-nodemailer#readme"
+}
